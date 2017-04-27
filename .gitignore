@@ -2,6 +2,7 @@
 .idea
 .egg-info
 *.egg-info
+config.py
 env
 venv
 __pycache__
