@@ -1,0 +1,6 @@
+
+class DevelopmentConfig(object):
+    """Development configuration."""
+    SQLALCHEMY_TRACK_MODIFICATIONS = False
+    SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://user_name:user_password@localhost:3306/td2'
+
